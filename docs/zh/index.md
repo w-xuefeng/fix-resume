@@ -14,7 +14,7 @@ hero:
       link: https://desktop.my-resume.space
     - theme: alt
       text: "📖 查看指南"
-      link: /zh/guide/
+      link: /guide/
   image:
     src: /fx-resume-logo.png
     alt: 扉客司 Logo
