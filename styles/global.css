@@ -1,0 +1,37 @@
+.rspress-logo {
+  height: unset !important;
+  width: 80px;
+}
+
+.flex {
+  display: flex;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.gap-2 {
+  gap: 0.5rem;
+}
+
+:root {
+  --rp-c-brand: #f5a33d;
+  --rp-c-brand-light: #f8b564;
+  --rp-c-brand-lighter: #fac88b;
+  --rp-c-brand-dark: #f38d14;
+  --rp-c-brand-darker: #c6700c;
+  --rp-c-brand-tint: rgba(245, 163, 61, 0.1);
+  --rp-home-hero-secondary-color: #ffc100;
+}
+
+.dark {
+  --rp-c-brand: #569fdf;
+  --rp-c-brand-light: #7bb5e6;
+  --rp-c-brand-lighter: #a0cbed;
+  --rp-c-brand-dark: #3189d8;
+  --rp-c-brand-darker: #256dae;
+  --rp-c-brand-tint: rgba(86, 159, 223, 0.1);
+  --rp-home-hero-secondary-color: #a673ff;
+  ;
+}
