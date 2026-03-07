@@ -1,5 +1,25 @@
 # Fix Resume Guide
 
+Are you looking for a resume maintenance platform that,  
+can specially customize your resume for different companies and roles,  
+maintains one or more sets of information that can be flexibly reused multiple times,  
+allows you to modify the layout style at your will,  
+supports bilingual Chinese/English,  
+keeps your data completely stored locally,  
+and is exclusively yours and completely free?
+
+Then, choosing Fix Resume is the right choice ٩(ˊᗜˋ*)و  
+In the vast sea of people, just meeting you is wonderful ꉂ(ˊᗜˋ*)
+
+```text
+┳┻|
+┻┳|
+┳┻|__∧
+┻┳|･ω･)
+┳┻|⊂ﾉ
+┻┳|Ｊ
+```
+
 Welcome to the user guide for **Fix Resume**.
 
 ## Core Concept: Resume = Information + Template
