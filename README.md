@@ -68,6 +68,6 @@ If you find typos, unclear explanations, or have suggestions for the guides, fee
 
 - All new pages must be added to both `docs/zh/` and `docs/en/` respectively.
 
-## � License
+## 📄 License
 
 MIT License. 
