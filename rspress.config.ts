@@ -1,5 +1,6 @@
 import * as path from "node:path";
 import { defineConfig, type UserConfig } from "@rspress/core";
+import { pluginGoogleAnalytics } from "rsbuild-plugin-google-analytics";
 
 const userConfigFn = async () => {
   return {
@@ -27,6 +28,9 @@ const userConfigFn = async () => {
       },
     ],
     globalStyles: path.join(import.meta.dirname, "styles", "global.css"),
+    builderConfig: {
+      plugins: [pluginGoogleAnalytics({ id: "G-03Q0QYG54E" })],
+    },
     themeConfig: {
       socialLinks: [
         {
