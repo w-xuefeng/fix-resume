@@ -7,10 +7,25 @@
 - **发布访问地址**： [https://fix.my-resume.space](https://fix.my-resume.space)
 - **适合场景**：首次尝鲜、快速修改某条小经历抑或分享成果。
 
+### 浏览器兼容性
+
+| 浏览器 | 最低要求版本 |
+| :---: | :---: |
+| <div class="flex align-center justify-center gap-2"><img src="/chrome.svg" alt="Chrome" width="24" /> Chrome </div> | 134.0.0.0 |
+| <div class="flex align-center justify-center gap-2"><img src="/edge.svg" alt="Edge" width="24" /> Edge</div> | 134.0.0.0 |
+| <div class="flex align-center justify-center gap-2"><img src="/firefox.svg" alt="Firefox" width="24" /> Firefox</div> | 141.0.0.0 |
+
 ## Desktop 桌面客户端
 为了更深度专业的使用者，我们诚挚提供桌面客户端产品。它进一步保证了脱线情况下的完全可用性及本机的重度操作体验。
 - **客户端地址发布页**：[https://desktop.my-resume.space](https://desktop.my-resume.space)
 - **适合场景**：重度职场记录者、常态化离线办公用户、追求原生应用体验的用户。
+
+### 系统要求
+
+| 操作系统 | 最低要求版本 |
+| :---: | :---: |
+| <div class="flex align-center justify-center gap-2"><img src="/win.svg" alt="Windows" width="24" /> Windows</div> | 10 |
+| <div class="flex align-center justify-center gap-2"><img src="/macos.svg" alt="macOS" width="24" /> macOS</div> | 26.3.1 |
 
 > 无论你使用哪个平台产生您的 FRI 等工程文件，它们在所有扉客司工具生态内都是完全共通、向下兼容的。
 

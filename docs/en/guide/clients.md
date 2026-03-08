@@ -7,10 +7,25 @@ The web version works out of the box, eliminating any installation process. All 
 - **URL**: [https://fix.my-resume.space](https://fix.my-resume.space)
 - **Best for**: trying it out for the first time, quickly tweaking an experience detail, or sharing results.
 
+### Browser Compatibility
+
+| Browser | Minimum Version |
+| :---: | :---: |
+| <div class="flex align-center justify-center gap-2"><img src="/chrome.svg" alt="Chrome" width="24" /> Chrome</div>| 134.0.0.0 |
+| <div class="flex align-center justify-center gap-2"><img src="/edge.svg" alt="Edge" width="24" /> Edge</div> | 134.0.0.0 |
+| <div class="flex align-center justify-center gap-2"><img src="/firefox.svg" alt="Firefox" width="24" /> Firefox</div> | 141.0.0.0 |
+
 ## Desktop Client
 For heavier or more professional users, we sincerely offer a Desktop client. It further guarantees complete usability offline and delivers a robust native operation experience.
 - **Download Page**: [https://desktop.my-resume.space](https://desktop.my-resume.space)
 - **Best for**: heavy workplace record-keepers, regular offline workers, and users who pursue a native app experience.
+
+### System Requirements
+
+| Operating System | Minimum Version |
+| :---: | :---: |
+| <div class="flex align-center justify-center gap-2"><img src="/win.svg" alt="Windows" width="24" /> Windows</div> | 10 |
+| <div class="flex align-center justify-center gap-2"><img src="/macos.svg" alt="macOS" width="24" /> macOS</div> | 26.3.1 |
 
 > Regardless of which platform you use to generate your FRI and other files, they are completely universal and backward-compatible within the entire Fix Resume ecosystem.
 
