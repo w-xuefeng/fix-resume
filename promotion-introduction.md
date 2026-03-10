@@ -79,8 +79,8 @@
 
 无论你是即将步入职场的应届生，还是准备在职场发力的老手老鸟，**Fix Resume (扉客司)** 都能帮你省下大量折腾格式的时间，把精力留给真正重要的内容！
 
-- 👉 **在线体验版**：[https://fix.my-resume.space](https://fix.my-resume.space) 
+- 👉 **在线体验**：[https://fix.my-resume.space](https://fix.my-resume.space) 
 - 👉 **下载客户端**：[https://desktop.my-resume.space](https://desktop.my-resume.space)
-- 👉 **查看详细文档**：[https://docs.my-resume.space](https://docs.my-resume.space)
+- 👉 **查看文档**：[https://docs.my-resume.space](https://docs.my-resume.space)
 
 **🌟 如果你觉得好用，或者它有帮到你，欢迎推荐给身边正在找工作的小伙伴们！一起告别简历排版焦虑吧！**
