@@ -10,6 +10,12 @@
 简历维护平台？
 
 那么，选择 Fix Resume 就对了  ٩(ˊᗜˋ*)و  
+
+<div class="flex align-center justify-center gap-2">
+  <img src="/snipaste_zh_light.png" width="45%" alt="Fix Resume light snipaste" />
+  <img src="/snipaste_zh_dark.png" width="45%" alt="Fix Resume drak snipaste" />
+</div>
+
 人海茫茫，光是遇见就很美好  ꉂ(ˊᗜˋ*)
 
 ```text

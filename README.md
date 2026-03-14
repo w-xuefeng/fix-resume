@@ -9,7 +9,13 @@
   </p>
 </div>
 
+<div align="center">
+
 English | [简体中文](README-zh_CN.md)
+
+  <img src="docs/public/snipaste_en_light.png" width="45%" alt="Fix Resume light snipaste" />
+  <img src="docs/public/snipaste_en_dark.png" width="45%" alt="Fix Resume drak snipaste" />
+</div>
 
 ---
 

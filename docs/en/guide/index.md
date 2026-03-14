@@ -9,6 +9,13 @@ keeps your data completely stored locally,
 and is exclusively yours and completely free?
 
 Then, choosing Fix Resume is the right choice ٩(ˊᗜˋ*)و  
+
+<div class="flex align-center justify-center gap-2">
+  <img src="/snipaste_en_light.png" width="45%" alt="Fix Resume light snipaste" />
+  <img src="/snipaste_en_dark.png" width="45%" alt="Fix Resume drak snipaste" />
+</div>
+
+
 In the vast sea of people, just meeting you is wonderful ꉂ(ˊᗜˋ*)
 
 ```text
